@@ -1,4 +1,4 @@
-<img width="851" height="543" alt="image" src="https://github.com/user-attachments/assets/bc6cbeb0-bcc8-46b8-977e-3c07e03804ed" />
+file:///C:/Users/lolaa/Downloads/helpdesk-diagram.html
 
 
 
