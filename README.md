@@ -128,6 +128,7 @@ All status changes logged to C:\HelpDesk\Logs\
 ║  CRITICAL/P1          :  0                           ║
 ╚══════════════════════════════════════════════════════╝
 ```
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a5aaf777-904a-4d7a-bc30-9d15cfcae555" />
 
 ---
 
