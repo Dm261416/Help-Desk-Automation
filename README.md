@@ -1,8 +1,3 @@
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/17d611a8-8511-40b4-bcc8-cebbcf02204a" />
-
-
-
-
 # 🖥️ Help Desk Automation Suite
 
 > A fully automated IT Help Desk system built with PowerShell, covering ticket management, user onboarding/offboarding, password resets, and automated email notifications — simulating a real enterprise IT support environment.
@@ -167,7 +162,7 @@ All status changes logged to C:\HelpDesk\Logs\
 - **Reporting** — Automated daily summaries and metrics
 
 ---
-
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/17d611a8-8511-40b4-bcc8-cebbcf02204a" />
 ## 👤 Author
 
 **GitHub:** [@Dm261416](https://github.com/Dm261416)
